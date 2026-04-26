@@ -1,0 +1,35 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/True.TECH.Application.Contracts/True.TECH.Application.Contracts.csproj" />
+    <Project Path="src/True.TECH.Application/True.TECH.Application.csproj" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <Project Path="src/True.TECH.DbMigrator/True.TECH.DbMigrator.csproj" />
+    <Project Path="src/True.TECH.Domain.Shared/True.TECH.Domain.Shared.csproj" />
+    <Project Path="src/True.TECH.Domain/True.TECH.Domain.csproj" />
+    <Project Path="src/True.TECH.EntityFrameworkCore/True.TECH.EntityFrameworkCore.csproj" />
+    <Project Path="src/True.TECH.HttpApi.Client/True.TECH.HttpApi.Client.csproj" />
+    
+    <Project Path="src/True.TECH.HttpApi.Host/True.TECH.HttpApi.Host.csproj" />
+    <Project Path="src/True.TECH.HttpApi/True.TECH.HttpApi.csproj" />
+    
+    
+    
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/True.TECH.Application.Tests/True.TECH.Application.Tests.csproj" />
+    <Project Path="test/True.TECH.Domain.Tests/True.TECH.Domain.Tests.csproj" />
+    <Project Path="test/True.TECH.EntityFrameworkCore.Tests/True.TECH.EntityFrameworkCore.Tests.csproj" />
+    <Project Path="test/True.TECH.HttpApi.Client.ConsoleTestApp/True.TECH.HttpApi.Client.ConsoleTestApp.csproj" />
+    
+    <Project Path="test/True.TECH.TestBase/True.TECH.TestBase.csproj" />
+    
+  </Folder>
+</Solution>
